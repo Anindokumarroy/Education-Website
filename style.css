@@ -1,0 +1,44 @@
+body {
+    background-color: #FCF3F3;
+}
+
+.first {
+    margin-top: 100px;
+}
+
+.btn {
+    width: 150px;
+}
+.second{
+    margin-top: 100px;
+}
+.third{
+    margin-top: 80px;
+}
+.img2{
+    width: 20px;
+}
+.four{
+    margin-top: 100px;
+}
+.img3{
+    width: 100px;
+}
+.fifth{
+    margin-top: 40px;
+    padding: 50px;
+}
+
+.img4{
+    width: 200px;
+    padding-top :15px;
+    background-color:#FDE7AA ;
+    border-radius: 50%;
+    
+}
+
+@media (max-width: 768px) {
+   .img1{
+    margin-top: 50px;
+   }
+}
